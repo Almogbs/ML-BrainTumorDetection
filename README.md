@@ -20,4 +20,4 @@ The Suitable Model was the Logistic Regression with Training Accuracy (Avg.) of 
 which was close to the other two models.
 
 ### The Logistic Regressiom Test Results was 96.19% of Accuracy.
-![Screenshot%202021-11-29%20172450-2.png](attachment:Screenshot%202021-11-29%20172450-2.png)
+![alt text](https://github.com/Almogbs/ML-BrainTumorDetection/blob/main/exemple.png)
