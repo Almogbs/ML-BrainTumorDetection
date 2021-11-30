@@ -15,8 +15,8 @@ Machine Learning Model for Brain Tumor Detection
 - KNN Classifier
 - SGD Classifier
 
-### Choosing Model:
-The Suitable Model was the Logistic Regression with Training Accuracy (Avg.) of ~0.95 
+### Choosing a Model:
+The most Suitable Model was the Logistic Regression with Training Accuracy (Avg.) of ~0.95 
 which was close to the other two models.
 
 ### The Logistic Regression Test Results had 96.19% of Accuracy.
