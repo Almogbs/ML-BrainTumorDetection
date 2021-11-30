@@ -1,8 +1,11 @@
 # ML-BrainTumorDetection
-Machine Learning Model for Brain Tumor Detection
 # Machine Learning - Brain Tumor Detection
 #### dataset source - Kaggle
 
+#### Training Machine Learning Models for Brain Tumor Detection with MRI scans
+#### Implemented in Python (Jupter Notebook) using SKLearn, Pandas, Numpy and Matplotlib
+
+#### About the data:
 - Data samples in the beginning        - 4600 units
 - Data samples after cleaning the data - 4461 units
 
